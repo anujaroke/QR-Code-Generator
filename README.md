@@ -10,7 +10,9 @@ FILE_PATH=path/to/qr_code.png
 
 ## Run
 python main.py
+
 Enter a URL when prompted.
+
 The QR code will be saved to the path specified in .env.
 
 ## Output
